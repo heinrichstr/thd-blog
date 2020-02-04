@@ -1,4 +1,9 @@
-# My approach to drawing trees
+---
+title: My approach to drawing trees
+date: "2020-02-04T22:12:03.284Z"
+description: "Learn how to draw trees the way I discovered to. You will learn how to not only draw trees, but figure out how to draw any types of trees you would like!"
+---
+
 ## Trees are hard
 I’ve worked off and on for the last few years on learning how to draw and paint many different types of natural objects, from birds to grass (and all sorts of things in between). The object with one of the most reoccurring issues for me was _trees_. It felt like every time I went back to draw another tree I had to relearn it from the beginning. It took quite an effort to truly learn how to draw trees and in this article I will share why I believe trees are such a difficult subject matter to draw and paint. 
 
@@ -10,20 +15,20 @@ The goal of this article is to give the reader the ability to research and under
 2. Construct the tree with correct anatomy on the page/canvas
 3. Apply the details correctly and accurately so the tree looks like our mind subconsciously already knows how it looks
 
-![](My%20approach%20to%20drawing%20trees/bear_sketch@2x.png)
+![](./bear_sketch@2x.png)
 
 Trees are hard because, while all trees share similarities between each other, different tree species require an artist to approach them differently. The details and the construction of trees are something we rarely pay attention to, yet if they are off we immediately know that something is wrong. Subconsciously we clock these details from trees we see in the real world and drawing convincing trees requires us to learning these details actively.
 
 For example, lets look at the differences between two types of trees. We will look at the details and construction of pine trees and beech trees. These two trees are often found in close quarters up in the northeastern United States (one of my favorite landscapes to draw and paint from). They are both trees but they have varying differences in their bark type, their limb anatomy, their leaf structure, and the structure of their roots anchoring the tree to the ground.
 
-![](My%20approach%20to%20drawing%20trees/bear_sketch@2x.png)
+![](./bear_sketch@2x2.png)
 
 Those are definitely both trees, yet they look totally different! The basic structure is similar for sure, but look how dissimilar the construction and all the details are for them. To draw these, I had to approach the structure in different ways. Let’s go through how I learned how to draw these trees.
 
 ## Draw what you see, not what you “know”
 That’s right, you need to look at them. It does no good to draw what you think you see. if you want to draw any trees, you have to get used to drawing what you see. In my opinion, this is why trees are so difficult for people to draw. We all think we know what a tree looks like, we’ve seen so many through our lives, but when we go to actually draw them we learn we only really know what a “basic tree” kind of looks like. In reality their details are often quite different! If you manage to guess the anatomy of a tree’s limbs but draw the wrong kind of bark and leaves, you will find the tree won’t look correct. Getting these anatomical details is important. It’s the same concept for many objects we see a lot. For instance, if you drew a hand with five fingers but no thumb you would notice immediately that something was off.
 
-![](My%20approach%20to%20drawing%20trees/bear_sketch@2x.png)
+![](./bear_sketch@2x3.png)
 
 Let’s walk through the steps for how I ended up figuring out how to draw and paint convincing trees. I went ahead and drew directly from reference and also went out and drew from life. Essentially it went like this. I first found a reference like we will walk through below and tried to understand the details and anatomy of the tree. Once I did this a number of times for different references of the same species of tree I was able to figure out the basics of how to construct a tree of that species. Going forward, I was able to plug those details into any sketch or scene that species of tree fit into well.
 
@@ -31,7 +36,7 @@ I would recommend either having a few tree species of different places under you
 
 ## How to learn how to draw trees correctly
 
-![](My%20approach%20to%20drawing%20trees/bear_sketch@2x.png)
+![](./bear_sketch@2x4.png)
 
 I went ahead and labeled some important details that I find change between different tree species. We will go through two sets of trees from the same species (American Beech and Eastern White Pine). 
 
@@ -53,7 +58,7 @@ As we can see from the beech trees above, even in the same species differences l
 
 This gives us a good idea of what Beech trees are like. Let’s walk through Pine trees together as well.
 
-![](My%20approach%20to%20drawing%20trees/bear_sketch@2x.png)
+![](./bear_sketch@2x5.png)
 
 Pine trees are very different from the beech trees above, yet they still look like trees to us. Let’s look at the list of details for pine trees:
 
