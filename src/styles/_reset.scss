@@ -1,0 +1,129 @@
+/* RESET */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, a, em, img, b, u, ol, ul, li, fieldset, form, label, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: 'Lora', serif;
+    color: $gray;
+}
+
+sup {
+    z-index: 0;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: disc;
+    margin-left:20px;
+}
+
+ul, ol {
+    margin-bottom:20px;
+    strong {
+        font-weight: 700;
+    }
+    h3 {
+        font-weight: 400;
+    }
+    li {
+        font-weight: 300;
+        line-height:2.2rem;
+        margin-bottom:5px;
+        font-size:$m-size;
+        a {
+            i {
+                font-weight: 300;
+            }
+        }
+        p{
+            margin-bottom:5px;
+        }
+        ul, ol{
+            margin-bottom:0;
+            li{
+                margin-left:15px;
+                list-style-type: circle;
+            }
+        }
+    }
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+html {
+    box-sizing: border-box;
+    font-size:62.5%; // sets rems to base 10 (e.g. 2.4rem = 24pt on browser default zoom), see settings.css for font sizes
+}
+
+html, body, #app{
+    height:100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+p{
+    font-size:$m-size;
+    line-height:2.4rem;
+    margin-bottom:20px;
+}
+
+a{
+    font-size:$m-size;
+    line-height:2.4rem;
+    color:$darkGreen;
+    text-decoration: underline;
+    text-decoration-color: $orange;
+    &:hover{
+        color:$orange;
+        @include transition(.25s);
+        span{
+            color:$orange;
+            @include transition(.25s);
+        }
+    }
+}
+
+h1{
+    font-size:$l-size;
+    font-family: 'Roboto', sans-serif;
+    font-weight:900;
+    margin-bottom:40px;
+}
+
+h2, h3, h4, h5{
+    font-size:$ml-size;
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+    margin-bottom:30px;
+    color:$darkGreen;
+}
+
+h2{
+    margin-top:40px;
+    font-weight:900;
+}
+
+h3{
+    font-size:$m-size;
+    margin-bottom:5px;
+}
+
+h4,h5{
+    font-size:s-size;
+}
+
+/*END RESET*/

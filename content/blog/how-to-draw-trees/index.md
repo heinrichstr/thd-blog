@@ -42,7 +42,8 @@ I went ahead and labeled some important details that I find change between diffe
 
 As we can see from the beech trees above, even in the same species differences like the age of the tree change some of the tree’s details significantly. Seeing these details can help us figure out what to look for when drawing our own. We will be able to make the trees  we draw old or young or if the tree is on the windswept side of the mountain or part of the valley by inserting or removing certain details.
 
-**American Beech trees:**
+###American Beech trees:
+---
 * Smooth bark
 	* Horizontal bark imperfections
 * Vertical trunk
@@ -62,7 +63,8 @@ This gives us a good idea of what Beech trees are like. Let’s walk through Pin
 
 Pine trees are very different from the beech trees above, yet they still look like trees to us. Let’s look at the list of details for pine trees:
 
-**Eastern White Pine**
+###Eastern White Pine
+---
 * Vertical trunk
 * Bark fairly smooth with shallow, vertical cuts
 	* Older trees have deeper cuts, younger trees and limbs fairly smooth
