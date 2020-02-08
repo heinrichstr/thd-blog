@@ -1,0 +1,13 @@
+.bioContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:20px;
+    background-color:$lightGray;
+    .bioText{
+        margin-left:20px;
+        margin-bottom:0;
+    }
+}

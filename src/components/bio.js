@@ -33,11 +33,7 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-      }}
-    >
+    <div className="bioContainer">
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
@@ -50,11 +46,10 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Written by <strong>{author}</strong>, 
-        {` `}
+      <p className="bioText">
+        Written by <strong>{author}</strong>, A lover of art and design and how they intersect.<br />
         <a href={`https://instagram.com/${social.instagram}`}>
-          You should follow him on Instagram
+          You should follow him on Instagram.
         </a>
       </p>
     </div>
