@@ -56,6 +56,11 @@
                     display:block;
                     text-decoration: none;
                 }
+                i{
+                    text-align:center;
+                    font-size:$s-size;
+                    display:block;
+                }
             }
         }
         @media screen and (max-width:900px){

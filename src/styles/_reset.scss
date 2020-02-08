@@ -108,7 +108,7 @@ h2, h3, h4, h5{
     font-size:$ml-size;
     font-family: 'Roboto', sans-serif;
     font-weight:500;
-    margin-bottom:30px;
+    margin-bottom:20px;
     color:$darkGreen;
 }
 
@@ -124,6 +124,11 @@ h3{
 
 h4,h5{
     font-size:s-size;
+}
+
+hr{
+    border:1px solid $darkGreen;
+    margin-bottom:10px;
 }
 
 /*END RESET*/
