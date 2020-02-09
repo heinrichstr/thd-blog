@@ -2,10 +2,29 @@
     .headerContainer{
         width:100%;
         background-color:$darkGreen;
-        padding:50px 40px;
+        padding:50px 30px 45px 30px;
         flex-basis:100%;
         .headerLogo{
             width:300px;
+            box-sizing: border-box;    
+            padding-bottom:5px;
+            border-bottom: 2px solid $darkGreen;
+            &:hover{
+                border-bottom:2px solid $orange;
+                @include transition(.25s);
+            }
+        }
+        @media screen and (max-width: 900px){
+            padding:20px 20px 10px 20px;
+            a{
+                width:200px;
+                margin:auto;
+                display:block;
+                .headerLogo{
+                    width:200px;
+                }
+            }
+            
         }
     }
     .bodyContainer{
@@ -31,6 +50,20 @@
             .date{
                 font-style:italic;
             }
+            .postListHeader{
+                margin-bottom:30px;
+                h2{
+                    margin-bottom:15px;
+                    a{
+                        font-size:$ml-size;
+                    }
+                }
+                small{
+                    font-size:$s-size;
+                    margin-bottom:10px;
+                    display:block;
+                }
+            }
         }
         .sidebarContainer{
             width:300px;
@@ -41,10 +74,15 @@
             position: sticky;
             right:30px;
             top:30px;
+            margin-left:30px;
             h2{
                 margin-top:0;
                 padding-bottom:10px;
                 border-bottom:2px solid $orange;
+                font-family: 'Roboto', sans-serif;
+            }
+            a{
+                font-family: 'Roboto', sans-serif;
             }
             section{
                 margin-bottom:20px;
