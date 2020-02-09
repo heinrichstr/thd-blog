@@ -11,6 +11,14 @@ module.exports = {
   plugins:[
     `gatsby-plugin-sass`,
     {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /assets/ 
+        }
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,

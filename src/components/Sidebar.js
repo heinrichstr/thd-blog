@@ -25,10 +25,6 @@ export default (props) => {
             <section>
                 <i>Email Signup Placeholder</i>
             </section>
-            <hr />
-            <section>
-                <i>The advertisement below helps keep this page up and running!</i>
-            </section>
         </aside>
     )
 }

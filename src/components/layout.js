@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Sidebar from './Sidebar';
+import Logo from '../../content/assets/logo.svg';
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -21,7 +22,11 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div className="mainContainer">
-      <header className="headerContainer">{header}</header>
+      <header className="headerContainer">
+        <Link to="/">
+          <Logo className="headerLogo" />
+        </Link>
+      </header>
       <div className="bodyContainer">
         <main className="contentContainer">{children}</main>
         <Sidebar />

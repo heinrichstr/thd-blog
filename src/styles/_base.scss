@@ -2,8 +2,11 @@
     .headerContainer{
         width:100%;
         background-color:$darkGreen;
-        padding:100px 40px;
+        padding:50px 40px;
         flex-basis:100%;
+        .headerLogo{
+            width:300px;
+        }
     }
     .bodyContainer{
         margin:auto;
