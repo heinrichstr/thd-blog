@@ -6,24 +6,21 @@ export default props => {
         <aside className="sidebarContainer">
             <h2>Useful Links</h2>
             <section>
-                <Link to="./drawing-leaves/">Featured Article--Drawing Leaves</Link>
+                <Link to="/">Featured Article</Link>
             </section>
             <section>
-                <a href="#">
+                <Link to="/">
                     Recommended Reading <br />
-                    <span>(COMING SOON)</span>
-                </a>
+                    <span>(get your art book recommendations here)</span>
+                </Link>
             </section>
             <section>
-                <a href="#">
-                    What I Use to Draw and Paint<br />
-                    <span>(COMING SOON)</span>
-                </a>
+                <Link to="">What I Use to Draw and Paint</Link>
             </section>
-            {/* <hr />
+            <hr />
             <section>
                 <i>Email Signup Placeholder</i>
-            </section> */}
+            </section>
         </aside>
     )
 }
