@@ -65,3 +65,5 @@ Do you see that arrow? Of course you do it's gigantic! It is pointing to the out
 If I were to draw this further, I would try to make my shading more uniform. I would also try to mbe more explicit with my leaf shapes. You can go as far as drawing every leaf, or stop somewhat short&mdash;but still explicitly drawing full leaf shapes in the foreground to lead the eye to believing the more abstracted texture behind it is indeed leaves.
 
 And that is it for this walkthrough. I hope this helps bridge the gap between the construction phase and detailing phase of the drawing. From this phase, there are multiple ways to continue on with the drawing or using it as a workup for another more detailed drawing in the future.
+
+Please connect with me on instagram if you liked this article. You can also send me any art you make while following along!
